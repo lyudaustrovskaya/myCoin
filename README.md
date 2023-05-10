@@ -1,0 +1,2 @@
+# myCoin
+myCoin
